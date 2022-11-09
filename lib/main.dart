@@ -29,7 +29,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          "News App",
+          "News_App",
           style: TextStyle(color: Colors.black),
         ),
         backgroundColor: Colors.white,
